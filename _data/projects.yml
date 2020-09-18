@@ -1,3 +1,18 @@
+- name: "Image Colorizer"
+  date: "2019"
+  description: |
+    Image Colorizer is een app die ik heb gemaakt die zwart-wit afbeeldingen omzetten in kleuren fotos. De app gebruikt de service Algorithmia.
+  url: "https://play.google.com/store/apps/details?id=com.ridgo.colorizer"
+  image: "image-colorizer-logo.png"
+
+- name: "Where's My Cargo"
+  date: "2019"
+  description: |
+    Where's My Cargo is een systeem wat ik heb gebouwd voor mijn eindstage van het MBO. Met dit systeem kunnen shipping
+    containers gevolgd worden. Ik heb een LoRa tracker geprogrammeerd die steeds de GPS coördinaten uitzend en een webapplicatie
+    gemaakt waarop de locatie geschiedenis van de trackers wordt weergegeven.
+  url: "https://vesseldata.io/"
+  image: "Wheres-My-Cargo-logo.png"
 - name: "MijnIPTV"
   date: "2018"
   description: |
